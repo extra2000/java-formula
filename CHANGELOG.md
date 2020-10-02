@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://github.com/extra2000/java-formula/compare/v1.0.2...v1.0.3) (2020-10-02)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add fix type ([d9d1cbb](https://github.com/extra2000/java-formula/commit/d9d1cbb055b1d199a5abad3c35be3eb15b3d6b5e))
+
 ### [1.0.2](https://github.com/extra2000/java-formula/compare/v1.0.1...v1.0.2) (2020-10-01)
 
 
