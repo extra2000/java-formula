@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.4](https://github.com/extra2000/java-formula/compare/v1.0.3...v1.0.4) (2020-10-04)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Fix patch updates with BREAKING CHANGE doesn't trigger major release ([c660517](https://github.com/extra2000/java-formula/commit/c660517fc07514b175a6010e16aa7f823df880d9))
+
 ### [1.0.3](https://github.com/extra2000/java-formula/compare/v1.0.2...v1.0.3) (2020-10-02)
 
 
